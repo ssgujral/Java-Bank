@@ -28,7 +28,7 @@ public Transaction(float amount, TransactionType type, Clock clock){
 
 }
 
-public float getAmout(){
+public float getAmount(){
   return this.amount;
 
 }
